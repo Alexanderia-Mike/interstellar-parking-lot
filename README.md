@@ -4,6 +4,8 @@ Author: Chenfei Lou
 
 Date: December 14, 2018
 
+This is a course project for VG101: Intro to Programming. The concrete requirements of this project can be found in the file [p3.pdf](https://github.com/Alexanderia-Mike/interstellar-parking-lot/blob/main/p3.pdf).
+
 
 ### Compile \& Run
 
